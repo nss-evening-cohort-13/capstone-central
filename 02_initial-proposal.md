@@ -1,11 +1,11 @@
 # Initial Proposal
 
-:star2::star2::star2::star2:[SUBMIT PROPOSAL HERE](https://forms.gle/maHrwwDxamBDrsEa8):star2::star2::star2::star2:
+:star2::star2::star2::star2:[SUBMIT PROPOSAL HERE](https://forms.gle/CNyaAx3DgXBhXot58):star2::star2::star2::star2:
 
 
 #### Your initial proposal is needed to
 1. Match you with a capstone mentor.
-1. Get your project approved by Zoë.
+1. Get your project approved by Dr. T.
 1. Establish the reason why you want to build your capstone, projects of passion are the best projects.
 1. Establish the scope of the application you want to build.
 
