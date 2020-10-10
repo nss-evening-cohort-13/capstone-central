@@ -10,7 +10,7 @@
 ##### Planning:
 * Use Github Projects for planning
 * Create wireframes (use whatever tool you want - moqups, lucid charts, photoshop, adobe XD, Figma, etc.)
-* If you are using an external API, gather all sample data and be prepared to demo your api at your first checkin (via axios call - use the first react project we made) before committing to use the API.
+* If you are using an external API, gather all sample data and be prepared to demo your api at your first checkin (via Postman) before committing to use the API.
 * If you have not fleshed out your planning enough, your capstone mentor will not let you code.
 
 ##### Project NoNos:
