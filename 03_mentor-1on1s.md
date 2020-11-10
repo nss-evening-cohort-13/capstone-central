@@ -25,7 +25,7 @@ During capstone time you will have 3 meetings with your mentor. These meetings a
 > 1. A good sense of if you are on track or need to work hard this week
 > 1. A set of goals to complete by your next meeting.
 
-### Check in #3: Monday 12/8/2020 (ish)
+### Check in #3: Tuesday 12/7/2020
 * This is your final check in
 * Purpose: To determine what (if any) remaining code you need to write to be at MVP for Saturday.
 * Preparation for this meeting:
