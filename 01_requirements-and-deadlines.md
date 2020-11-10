@@ -19,7 +19,7 @@
 * No MVP can include a calendar
 * No apps that require use of the spotify API.
 * No recipe apps of ANY kind - they have all been done, they all look the same, there are no good free APIs.
-* No games - there isn't enough time to make games for you capstone.  Feel free to do one or 12 as a side project
+* No games - there isn't enough time to make games for your capstone.  Feel free to do one or 12 as a side project
 * No game tracking applications - ie dashboards for DnD, WoW, etc
 * No projects that are super similar to things we have done in class
 
