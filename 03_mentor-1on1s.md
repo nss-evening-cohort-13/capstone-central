@@ -33,4 +33,4 @@ During capstone time you will have 3 meetings with your mentor. These meetings a
 > 1. Be prepared to talk about any difficulties you see coming up.
 * At the end of this meeting you should have:
 > 1. A solid understanding of what you need to finish to be at MVP
-> 1. A list of remaining things that need to be completed for your MVP demo on tuesday.
+> 1. A list of remaining things that need to be completed for your MVP demo on Saturday.
