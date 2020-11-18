@@ -28,7 +28,7 @@
 * **Monday 11/24/2020:** Project ERD due - again get this to me ASAP so nobody needs to wait
 * **Saturday 11/28/2020:** User stories, tickets, wireframes due
 * **Saturday 11/28/2020:** 1-on-1s with mentor to determine MVP
-* **Monday 11/30/2020:** Coding begins - assuming your mentor is satisfied with your planning
-* **Tuesday 12/12/2020:** MVP is due - EVERY person will do a soft demo to the instructors
+* **Monday 12/07/2020:** Coding begins - assuming your mentor is satisfied with your planning
+* **Saturday 12/19/2020:** MVP is due - EVERY person will do a soft demo to the instructors
 * **Saturday 1/4/2021:** Capstone Demos - also your last day of front-end.
 
