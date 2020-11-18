@@ -2,7 +2,7 @@
 
 During capstone time you will have 3 meetings with your mentor. These meetings are **NOT** a time for you to talk about broken code.  They are a time to reflect on your progress and set easily attainable goals to make sure you will be finished with your project by the MVP deadline.  Below is an outline of what you should have done before each check in:
 
-### Check in #1: Saturday 11/28/2020
+### Check in #1: Saturday 12/05/2020
 * This is your first check in
 * Purpose: to outline and agree on your capstone MVP.
 * Preparation for this meeting:
@@ -15,9 +15,9 @@ During capstone time you will have 3 meetings with your mentor. These meetings a
 > 1. An ordered list of your stretch goals
 > 1. A set of goals to complete by your next meeting
 
-### Check in #2: Saturday 12/5/2020
+### Check in #2: Saturday 12/12/2020
 * This is your second check in
-* Purpose: To make sure you are still on track for getting to MVP by 12/12/2020
+* Purpose: To make sure you are still on track for getting to MVP by 12/19/2020
 * Preparation for this meeting:
 > 1. Complete the coding goals from your first check in
 > 1. Be prepared to talk about any difficulties you see coming up.
@@ -25,7 +25,7 @@ During capstone time you will have 3 meetings with your mentor. These meetings a
 > 1. A good sense of if you are on track or need to work hard this week
 > 1. A set of goals to complete by your next meeting.
 
-### Check in #3: Tuesday 12/7/2020
+### Check in #3: Tuesday 12/15/2020
 * This is your final check in
 * Purpose: To determine what (if any) remaining code you need to write to be at MVP for Saturday.
 * Preparation for this meeting:
