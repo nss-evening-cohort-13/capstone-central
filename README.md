@@ -2,8 +2,8 @@
 
 This repo contains everything you need to know about capstones - due dates, expectations, etc.  Click on one of the links below to find out more.
 
-- [DEADLINES](#deadlines)
-- [CAPSTONE REQUIREMENTS](#CAPSTONE_REQUIREMENTS)
+- [Deadlines](#deadlines)
+- [Capstone Requirements](#capstone-requirements)
 - [Initial Proposal](02_initial-proposal.md)
 - [Mentor Checkins](#mentor-1on1s)
 
