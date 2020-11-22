@@ -13,6 +13,9 @@
 * If you are using an external API, gather all sample data and be prepared to demo your api at your first checkin (via Postman) before committing to use the API.
 * If you have not fleshed out your planning enough, your capstone mentor will not let you code.
 
+##### Documentation:
+* A completed README with details and deployment link. [Remember our planning from the beginning of the cohort.](https://github.com/nss-evening-cohort-13/team-planning#readme-is-completed-with)
+
 ##### Project NoNos:
 * Projects shouldn't be something for your day job
 * Projects shouldn't be for someone who will pay you :moneybag:.
