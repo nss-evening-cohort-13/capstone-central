@@ -19,7 +19,7 @@ This repo contains everything you need to know about capstones - due dates, expe
   - [Loom](https://www.loom.com/)
 * **Saturday 12/5/2020:** 1-on-1s with mentor to determine MVP
 * **Monday 12/07/2020:** Coding begins - assuming your mentor is satisfied with your planning
-* **Saturday 12/19/2020:** MVP is due - EVERY person will do a soft demo to the instructors
+* **Saturday 12/19/2020:** MVP is due - EVERY person will do a soft demo
 * **Tuesday 1/5/2021:** Capstone Demos
 
 ## CAPSTONE REQUIREMENTS
